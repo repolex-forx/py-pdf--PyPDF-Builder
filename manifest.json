@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "py-pdf",
+  "repo": "PyPDF-Builder",
+  "versions": [
+    {
+      "commit": "5dce41b09a1b9c43bfb6f102876a4915a7f42afb",
+      "parsed_at": "2026-10-21T02:07:35.538626+00:00",
+      "filetree": "filetree/5dce41b09a1b9c43bfb6f102876a4915a7f42afb.nq.gz",
+      "blobs": [
+        "blob/d1f125772373bad6646c4d5c9e85f349a4af1812.nq.gz",
+        "blob/8e33dc0b8cb2c62f7229bafc4442f1f987525d0a.nq.gz",
+        "blob/a98765d7e5e34d220ce44db9ccd0f6d03d5f7521.nq.gz",
+        "blob/d525522e4455cefb08edb6641543cdaab679e071.nq.gz",
+        "blob/88da84e98f22fc800a427f5d13d262595de7165a.nq.gz",
+        "blob/25b62901bc2a5ab709122f12868495f389c0945f.nq.gz",
+        "blob/2413620fe64ba5ffb939f95620b88179a7acacbd.nq.gz",
+        "blob/49b7c547883ca209bf5c2e4b65196af6ce93f7ed.nq.gz",
+        "blob/57be8324f2db1e6eef1ff0f06449caf3fd2e82fa.nq.gz",
+        "blob/afc873c840b74ae46cad889dc197e53d73a6a66d.nq.gz",
+        "blob/41719e5db54c3e070c75c87d0cd3af64fb2e5a12.nq.gz",
+        "blob/c2895509e41040702f01f5e3cbb4a9413f461201.nq.gz",
+        "blob/2aa3b1c8fb503709994283658ec9c8612a5d87db.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
